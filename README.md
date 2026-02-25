@@ -1,4 +1,4 @@
-![Hero section](assets/image.png)
+# ![Hero section](assets/image.png)
 
 # App demo
 
